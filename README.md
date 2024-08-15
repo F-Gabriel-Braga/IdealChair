@@ -6,7 +6,7 @@ o uso da biblioteca de estilo Bootstrap, o que torna o desenvolvimento e a manut
 uma experiência atraente para os visitantes.
 
 ## Como Usar
- 1. Clone o repositório: `git clone https://github.com/F-Gabriel-Braga/ideal-chair`
+ 1. Clone o repositório: `git clone https://github.com/gab-braga/ideal-chair`
  2. Acesse o diretório do projeto: `cd ideal-chair`
  3. Abra o arquivo `index.html` no seu navegador
 
@@ -26,6 +26,6 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 ## Visualização
 ### Página Inicial
-![chair-1](https://github.com/F-Gabriel-Braga/pokedex-app/assets/66652642/a9d9fd20-8657-48f2-9041-f73644f0862f)
+![chair-1](https://github.com/gab-braga/pokedex-app/assets/66652642/a9d9fd20-8657-48f2-9041-f73644f0862f)
 ### Produto
-![chair-2](https://github.com/F-Gabriel-Braga/pokedex-app/assets/66652642/6d2a177e-3803-49ee-af44-4b78fcf1eda3)
+![chair-2](https://github.com/gab-braga/pokedex-app/assets/66652642/6d2a177e-3803-49ee-af44-4b78fcf1eda3)
