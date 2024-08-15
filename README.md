@@ -16,6 +16,12 @@ uma experiência atraente para os visitantes.
 * CSS
 * JavaScript
 
+## Visualização
+### Página Inicial
+![chair-1](https://github.com/gab-braga/pokedex-app/assets/66652642/a9d9fd20-8657-48f2-9041-f73644f0862f)
+### Produto
+![chair-2](https://github.com/gab-braga/pokedex-app/assets/66652642/6d2a177e-3803-49ee-af44-4b78fcf1eda3)
+
 ## Contribuição
 Se você quiser contribuir para este projeto, siga estas etapas:
 1. Faça um fork do repositório.
@@ -23,9 +29,3 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 3. Faça o commit das mudanças: `git commit -m 'Adicione minha feature'`
 4. Envie para o repositório original: `git push origin minha-feature`
 5. Crie um pull request.
-
-## Visualização
-### Página Inicial
-![chair-1](https://github.com/gab-braga/pokedex-app/assets/66652642/a9d9fd20-8657-48f2-9041-f73644f0862f)
-### Produto
-![chair-2](https://github.com/gab-braga/pokedex-app/assets/66652642/6d2a177e-3803-49ee-af44-4b78fcf1eda3)
